@@ -13,8 +13,11 @@ This is the mostly used name of me. <i>Huang</i> is the last name of my legal na
 #### 🍁 Akiba So
 This is my Japanese name. It came from my first impression. It's the <i>Romaji</i> of the original Japanese. Pronounce as you like.
 
-
-
+## Support me
+If some of my thoughts or codes help you in some ways, hope you can tell me or donate me. I'm glad to be approbated.
+### Ways to donate me
+#### 爱发电
+[Support Me](https://afdian.net/a/akiba)
 
 
 
