@@ -1,9 +1,23 @@
-### Hi there 👋
-Here's Akiba So. A Student Developer who is working on many projects and schoolwork.
-[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=akibaso&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akibaso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-### Things About Me.
-<iframe src="https://hyh.ink/"/>
+# Hi there 👋
+Here's AkibaSo, a common student in China who is interested in photography, machine learning and social engineering. Hope to be a <strong><i>useful</i></strong> person to the world in some ways or be <strong><i>needed</i></strong> by someone.
+
+## Things about me
+### The way to reach me
+There is a telegram channel of my blog, [@OkYes_Blog](https://t.me/OkYes_Blog). Currently, I don't have more SNS account which you can reach me.
+My E-mail address is given#2890.ltd (replace # with @), I'm used to check it frequently. 
+
+### About appellation
+There's mainly 3 names which I'm using online.
+#### Given Huang
+This is the mostly used name of me. <i>Huang</i> is the last name of my legal name. You can pronounce it with phonics.
+#### 🍁 Akiba So
+This is my Japanese name. It came from my first impression. It's the <i>Romaji</i> of the original Japanese. Pronounce as you like.
+
+
+
+
+
+
 <!--
 **akibaso/akibaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
