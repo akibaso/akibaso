@@ -17,10 +17,7 @@ This is my Japanese name. It came from my first impression. It's the <i>Romaji</
 If some of my thoughts or codes help you in some ways, hope you can tell me or donate me. I'm glad to be approbated.
 ### Ways to donate me
 #### 爱发电
-[Support Me](https://afdian.net/a/akiba)
-
-
-
+<a href="https://afdian.net/a/akiba"><img src="https://cdn.hyh.ink/imger/2022/09/12/support-me-on-afd-93cb00b36b5f9c74.png" alt="Support Me."/></a>
 <!--
 **akibaso/akibaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
