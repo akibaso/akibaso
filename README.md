@@ -3,7 +3,9 @@ Here's Akiba So. A Student Developer who is working on many projects and schoolw
 [![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=akibaso&hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akibaso&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Things About Me.
-
+<script>
+  console.log("Xie")
+</script>
 <!--
 **akibaso/akibaso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
