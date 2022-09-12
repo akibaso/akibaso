@@ -8,7 +8,7 @@ My E-mail address is given#2890.ltd (replace # with @), I'm used to check it fre
 
 ### About appellation
 There's mainly 3 names which I'm using online.
-#### Given Huang
+#### 📃 Given Huang
 This is the mostly used name of me. <i>Huang</i> is the last name of my legal name. You can pronounce it with phonics.
 #### 🍁 Akiba So
 This is my Japanese name. It came from my first impression. It's the <i>Romaji</i> of the original Japanese. Pronounce as you like.
