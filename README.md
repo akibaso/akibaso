@@ -1,6 +1,7 @@
 # Hi there 👋
 Here's AkibaSo, a common student in China who is interested in photography, machine learning and social engineering. Hope to be a <strong><i>useful</i></strong> person to the world in some ways or be <strong><i>needed</i></strong> by someone.
-
+## Projects and Works
+Currently, I'm working on [Akiworks](https://github.com/AkiWorks). Designing the logo of it and setting up its site. My main projects will be posted on that organization. As for the photography works, I always post it on 500px. You can follow my 500px account [here](https://500px.com.cn/community/user-details/d5e08e6f54c73a325c7be415bfe821218).
 ## Things about me
 ### The way to reach me
 There is a telegram channel of my blog, [@OkYes_Blog](https://t.me/OkYes_Blog). Currently, I don't have more SNS account which you can reach me.
